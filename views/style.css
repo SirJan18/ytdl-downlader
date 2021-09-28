@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+#container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #E52D27;
+	height: 200px;
+	width: auto;
+}
+
+#image {
+	max-width: 125px;
+	max-height: 115px;
+	flex-basis: 40%;
+}
+
+#text{
+	font-size: 45px;
+	padding-left: 35px;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+}
