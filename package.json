@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SirJan18/Spotify-Downloader-Website.git"
+    "url": "git+https://github.com/SirJan18/ytdl-downlader.git"
   },
   "author": "Sirio Jansen-Sanchez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SirJan18/Spotify-Downloader-Website/issues"
+    "url": "https://github.com/SirJan18/ytdl-downlader/issues"
   },
-  "homepage": "https://github.com/SirJan18/Spotify-Downloader-Website#readme",
+  "homepage": "https://github.com/SirJan18/ytdl-downlader#readme",
   "devDependencies": {
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.13"
